@@ -1,0 +1,1495 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.7.28" />
+<title>Child Paths</title>
+<meta name="viewport" content=
+"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300"
+rel="stylesheet" type="text/css" />
+<link rel="icon" type="image/png" href="/images/icon.png" />
+<link rel="apple-touch-icon" href="/images/icon.png" />
+<link rel="apple-touch-icon" sizes="72x72" href=
+"/images/icon-72.png" />
+<link rel="apple-touch-icon" sizes="144x144" href=
+"/images/icon-144.png" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/compiled-css/GBa6Qf5oR2?v=2.0.8" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/app.css?v=2.0.9" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/fileinput.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/trumbowyg.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/bootstrap-datetimepicker.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/fontawesome.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/preloader.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/pnotify.custom.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/fullcalendar.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/bootstrap-clockpicker.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/custom.css?v=3" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/datatables.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/jquery-ui.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/starRating.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/tui-time-picker.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/jquery.roadmap.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/jstree.default.min.css" />
+<link rel="stylesheet" href=
+"https://app.childpaths.ie/css/jstree.dark.min.css" />
+<!-- <link rel="stylesheet" href=https://app.childpaths.ie/css/fullcalendar.print.min.css> -->
+
+<script>
+<![CDATA[
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-56595941-2', 'auto');
+            ga('send', 'pageview');
+]]>
+</script>
+<!-- <script type="text/javascript" src="https://app.childpaths.ie/js/jquery.1.11.0.min.js" ></script> -->
+
+<script type="text/javascript" src=
+"https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/script.js?v=1.2"></script>
+<script src=
+"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/4.2.7/js/fileinput.min.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/bootstrap-clockpicker.min.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/trumbowyg.min.js"></script>
+<script type="text/javascript" src=
+"https://js.stripe.com/v3/"></script>
+<script type="text/javascript" src=
+"https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/moment.min.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/bootstrap-datetimepicker.min.js?v=2"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/img-browser.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/multi-step-form.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/jquery.cookie.js"></script>
+<script src=
+"https://app.childpaths.ie/js/sweetalert.min.js"></script>
+<script src=
+"https://app.childpaths.ie/js/pnotify.custom.min.js?v2"></script>
+<script src=
+"https://app.childpaths.ie/js/datatables.min.js"></script>
+<script src=
+"https://app.childpaths.ie/js/jquery-ui.min.js?v=2"></script>
+<script src=
+"https://app.childpaths.ie/js/jquery.ui.touch-punch.min.js"></script>
+<script src="https://app.childpaths.ie/js/starRating.js"></script>
+<script type="text/javascript" src=
+"https://uicdn.toast.com/tui.code-snippet/v1.3.0/tui-code-snippet.min.js"></script>
+<script src=
+"https://app.childpaths.ie/js/tui-time-picker.min.js"></script>
+<script src=
+"https://app.childpaths.ie/js/jquery.roadmap.min.js"></script>
+<script src="https://app.childpaths.ie/js/jstree.min.js"></script>
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/app.js?v=d9de0c183665ccb1d8f0c33739f75f59"></script><!--  Full Calendar  -->
+
+<script src=
+"https://app.childpaths.ie/js/fullcalendar.min.js"></script>
+<script type='text/javascript'>
+//<![CDATA[
+        $(document).ready(function () {
+                $(".btn-toggle-mobile,.navbar-left-container-space-taker").click(function () {
+                        if($(".main-nav").hasClass("opened")) {
+                                $(".main-nav").removeClass("opened");
+                                $(".navbar-left-container-space-taker").removeClass("opened");
+                                $("body").scrollTop($(".main-nav").data("previous-scroll"));
+                                $("body").css("overflow", "");
+                        } else {
+                                $(".main-nav").addClass("opened");
+                                $(".navbar-left-container-space-taker").addClass("opened");
+                                $(".main-nav").data("previous-scroll", $("body").scrollTop());
+                                $("body").scrollTop(0);
+                                $("body").css("overflow", "hidden");
+                        }
+                });
+
+                setInterval(function () {
+                        if($('.modal-scrollable').length > 0) {
+                                $(window).resize();
+                        }
+                }, 10);
+
+
+                var querystring = 'modal=true';
+
+                $('a[data-open=modal]').each(function()
+                {
+                    var href = $(this).attr('href');
+
+                    if(href) {
+                        href += (href.match(/\?/) ? '&' : '?') + querystring;
+                        $(this).attr('href', href);
+                    }
+                });
+
+                $('#print-button').on('click', function() {
+                        window.print();
+                });
+ // fixed?
+                $(".button-read-msg-later").click(function() {
+                        $.get('/message/read-later', function(response) {
+                                location.reload();
+                        });
+                });
+        });
+
+
+        function populateSelect(type, hashid, fetch, selects, prefix){
+                prefix = typeof prefix !== 'undefined' ? prefix : 'true';
+                var url = '/ajax/'+ type +'/'+ hashid +'/'+ fetch + '?prefix=' + prefix;
+
+                selects.each(function(index, select) {
+                        $(select).empty().attr('disabled', 'disabled');
+                        $(select).select2('data', null);
+                });
+                $.getJSON(url,function(json){
+                        if ( json.length == 0 ) {
+                                return;
+                        }
+                        $.each(json, function(key, value) {
+                                selects.each(function(index, select) {
+                                        $(select).append('<option value="' + key + '">' + value + '</option>').removeAttr('disabled');
+                                });
+                        });
+                }).fail(function() {
+                        selects.each(function(index, select) {
+                                $(select).empty().attr('disabled', 'disabled');
+                        });
+                });
+        }
+
+        /* Navbar slider */
+        var is_sliding = false;
+        $(document).on("click", "#navbar-left-slide", function() {
+                if($(this).attr("class") == "out")
+                        navSlideIn();
+                else
+                        navSlideOut();
+        });
+        if(window.innerWidth >= 768) {
+                $(document).on("mouseenter", "div.navbar-left-container.main-nav", function() {
+                        navSlideOut();
+                });
+                
+                $(document).on("mouseleave", "div.navbar-left-container.main-nav", function() {
+                        navSlideIn();
+                        if(is_sliding)
+                                setTimeout(function() { navSlideIn(); }, 500);
+                });
+    }
+        else {
+                $("#navbar-left-slide").remove();
+        }
+
+    if(window.navigator.userAgent.indexOf("Android") > -1) {
+                $(document).on("focusin", "div.notification-rows textarea,a.list-group-item.list-group-item-action input[type='text']", function() {
+                        var textarea = $(this);
+                    $(".modal-overflow").animate({
+                        scrollTop: (textarea.offset().top - $(".modal-overflow").offset().top + $(".modal-overflow").scrollTop()) - 20
+                    }, 800);
+                });
+    }
+
+        function navSlideIn() {
+                if($("#navbar-left-slide").hasClass("out") && !is_sliding) {
+                        is_sliding = true;
+                        $("div.navbar-left-container.main-nav li a span").hide();
+                        $("div.navbar-left-container.main-nav").animate({
+                                width: "50px",
+                        }, function() {  
+                                $("#navbar-left-slide").find(".fa").attr("class", $("#navbar-left-slide").find(".fa").attr("class").replace("fa-arrow-circle-left", "fa-arrow-circle-right"));
+                                $("#navbar-left-slide").attr("class", "in");
+                                is_sliding = false;
+                        });
+                }
+        }
+
+        function navSlideOut() {
+                if($("#navbar-left-slide").hasClass("in") && !is_sliding) {
+                        is_sliding = true;
+                        $("#navbar-left-slide").attr("class", "out");
+                        $("div.navbar-left-container.main-nav").animate({
+                                width: "21%",
+                        }, function() {
+                                $("div.navbar-left-container.main-nav li a span").show();
+                                $("#navbar-left-slide").find(".fa").attr("class", $("#navbar-left-slide").find(".fa").attr("class").replace("fa-arrow-circle-right", "fa-arrow-circle-left"));
+                                is_sliding = false;
+                        });
+                }
+        }
+        if(window.navigator.userAgent.indexOf("Mac") != -1) {
+                $(document).on('blur', 'input, textarea', function() {
+                        if(window.navigator.userAgent.indexOf("Mac") != -1) {
+                            setTimeout(function() {
+                                window.scrollTo(document.body.scrollLeft, document.body.scrollTop);
+                            }, 0);
+                        }
+                });
+        }
+
+        /* Social Actions */
+        $(document).on('click', "[data-social_action]", function() {
+                var el = $(this);
+                        if(el.attr('data-social_action') != "comment") {
+                                $.ajaxSetup({
+                        headers: {
+                                'X-CSRF-TOKEN': 'j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3'
+                        }
+                    });
+                                $.ajax({
+                                        type: "POST",
+                                        url: "/social/user-" + el.attr("data-social_action"),
+                                        data: {
+                                                photo: $(this).attr("data-photo"), 
+                                                log: $(this).attr("data-log"),
+                                                child: $(this).attr('data-child')
+                                        },
+                                        dataType: "json",
+                                        success: function(response) {
+                                                if(response != "ERROR") {
+                                                        if(response != "")
+                                                                el.addClass("active");
+                                                        else
+                                                                el.removeClass("active");
+                                                }
+                                        },
+                                        error: function(error) {
+                                        }
+                                });
+                        }
+                        else {
+                                if(el.hasClass("active")) {
+                                        el.removeClass("active");
+                                        var container = el.parents('div').find('span.photo-social-comment-container');
+                                        if(container && container.length > 0)
+                                                container.fadeOut();
+                                }
+                                else {
+                                        el.addClass("active");
+                                        var container = el.parents('div').find('span.photo-social-comment-container');
+                                        if(container && container.length > 0)
+                                                container.fadeIn();
+                                }
+                        }
+        });
+        $(document).on('submit', '.social-comments-form', function(e) {
+                var form = $(this);
+                $.ajaxSetup({
+                headers: {
+                'X-CSRF-TOKEN': 'j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3'
+                }
+        });
+                $.post("https://app.childpaths.ie/social/user-comment", form.serialize(), function(response) {
+                        if(response != "ERROR") {
+                                var comments = form.parents('div.social-comments').find('div.comments-container');
+                                form.find("[name='message']").val("");
+                                comments.fadeOut('slow', function() {
+                                        comments.html(response);
+                                        comments.fadeIn();
+                                });
+                        }
+                });
+                e.preventDefault();
+                return false;
+        });
+
+        $(document).on('click', '.comment-form-display-btn', function(e) {
+                $(this).parents('div.social-comments').find('div.comment-form-display-container').fadeIn();
+                $(this).parents('div.social-comments').find('.collapsable').fadeIn();
+                $(this).fadeOut();
+                e.preventDefault();
+                return false;
+        });
+
+        $(document).on('click', '.comment-list-display-btn', function(e) {
+                $(this).parents('div.social-comments').find('.collapsable').fadeIn();
+                $(this).fadeOut();
+                e.preventDefault();
+                return false;
+        });
+
+        $(document).ready(function()
+                        {
+                        /*$("#notificationLink,.mobile-notifications_container").click(function()
+                        {
+                                $.ajaxSetup({
+                                headers: {
+                                'X-CSRF-TOKEN': 'j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3'
+                                }
+                        });
+                                $.get('/user-notification/clear', function(response) { });
+                                
+                                $("#notificationOverlay").fadeToggle(300);
+                                $("#notification_count").fadeOut("slow");
+                                $("body").css("overflow", "hidden");
+                                if($("#notificationOverlay #notificationContainer").height() > window.innerHeight)
+                                        $("#notificationOverlay #notificationContainer").height(window.innerHeight - 10);
+                                return false;
+                        });*/
+                        
+                    // ios 11 bug caret position
+                    if(window.navigator.userAgent.indexOf("Mac") != -1) {
+                        $("body").addClass("iosBugFixCaret");
+                        }
+
+                        //Document Click hiding the popup 
+                        /*$("#notificationOverlay").click(function()
+                        {
+                                $("#notificationOverlay").fadeOut();
+                                $("body").css("overflow", "auto");
+                        });*/
+
+                        $(".notification-container-close").click(function() {
+                                $("#notificationOverlay").fadeOut();
+                                $("body").css("overflow", "auto");
+                        });
+                        
+                        //Popup on click
+                        $("#notificationContainer").click(function()
+                        {
+                                
+                                if($(this).attr("href"))
+                                        return false;
+                        });
+
+                        $(".comment-menu a").click(function() {
+                                $("#notificationOverlay").fadeOut();
+                                $("body").css("overflow", "auto");
+                        });
+
+            $(".dropdown-menu a").click(function() { 
+                $(this).parents('.dropdown').removeClass('open');
+            });
+                });
+        
+        $(document).on("click", ".conversation-acknowledge-button", function() {
+                $(this).parents('form').find("textarea").val("Acknowledged your message.");
+                $(this).parents('form').submit();
+        });
+
+        
+
+        $(document).on("click", "a[data-confirm]", function(e) {
+                var href = $(this).attr('href'), htmlElement = $(this).attr('data-element') ? $($(this).attr('data-element')) : null, type = $(this).attr('data-confirm') ? $(this).attr('data-confirm') : 'confirm', dataText = $(this).attr('data-text') ? $(this).attr('data-text') : null, triggerAction = $(this).attr('data-trigger'), reloadUrl = $(this).attr('data-reload'), reloadElement = $(this).attr('data-reload-target') ? $(this).attr('data-reload-target') : "#main-body", prevent = true, refreshTarget = $(this).attr('data-refresh-target') ? $(this).attr('data-refresh-target') : null, dataClose = $(this).attr('data-close') ? $(this).attr('data-close') : null;
+
+                $.ajaxSetup({
+                headers: {
+                'X-CSRF-TOKEN': 'j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3'
+                }
+        });
+                
+                switch(type) {
+                        case "delete":
+                        swal({
+                                          title: "Are you sure?",
+                                          text: dataText ? dataText : "Are you sure you want to delete this item?",
+                                          icon: "warning",
+                                          buttons: true,
+                                          dangerMode: true,
+                                        })
+                                        .then(function(willDelete) {
+                                          if (willDelete) {
+                                                        var responseMessage = "You have deleted one item", responseIcon = "success";
+                                                        $.ajax({
+                                                                type: 'DELETE',
+                                                                url: href, 
+                                                                success: function(response) {
+                                                                        var successPattern = /<div.*alert\-success.*>.*<li>(.*)<\/li>.*<\/div>/m, errorPattern = /<div.*alert\-error.*>.*<li>(.*)<\/li>.*<\/div>/m;
+                                                                        if(response) {
+                                                                                var successResult = successPattern.exec(response), errorResult = errorPattern.exec(response);
+                                                                                if(successResult !== null) {
+                                                                                        successResult.forEach(function(match, groupIndex) {
+                                                                                        responseMessage = match;
+                                                                                    });
+                                                                                }
+                                                                                else if(errorResult !== null) {
+                                                                                        errorResult.forEach(function(match, groupIndex) {
+                                                                                        responseMessage = match;
+                                                                                                responseIcon = "error";
+                                                                                    });
+                                                                                }
+                                                                        if(htmlElement) {
+                                                                                        htmlElement.remove();
+                                                                        }
+                                                                        else if(triggerAction) {
+                                                                                        eval(triggerAction);
+                                                                            }
+                                                                        else if(dataClose) {
+                                                                                        switch(dataClose) {
+                                                                                                case "modal":
+                                                                                                        $("#modal").modal("hide");
+                                                                                                        break;
+                                                                                        }
+                                                                        }
+                                                                        else {
+                                                                                        $.get(window.location, { "body-only": true, "html-only": true }, function(response) {
+                                                                                                if(refreshTarget) {
+                                                                                                        $(refreshTarget).html(response);
+                                                                                                }
+                                                                                                else {
+                                                                                                        if($("#modal.in .modal-body").length > 0) {
+                                                                                                                $("#modal.in .modal-body").html(response);
+                                                                                                        }
+                                                                                                        else {
+                                                                                                                $("#main-body").html(response);
+                                                                                                        }
+                                                                                                }
+                                                                                        });
+                                                                                }
+
+                                                                        if(reloadUrl && reloadElement) {
+                                                                                        $.get(reloadUrl + (reloadUrl.indexOf('?') > -1 ? '&' : '?') + "body-only=true", function(response) {
+                                                                                                $(reloadElement).html(response);
+                                                                                        });
+                                                                                }
+                                                                                swal(responseMessage, { icon: responseIcon });
+                                                                        }
+                                                                },
+                                                                error: function() {
+                                                                    swal("An error occured while trying to delete a record", {
+                                                                              icon: "error",
+                                                                        });
+                                                                }
+                                                        });
+                                          }
+                                });
+                                break;
+                        case "confirm":
+                                swal({
+                                          title: "Are you sure?",
+                                          text: dataText ? dataText : "Are you sure you want to proceed?",
+                                          icon: "warning",
+                                          buttons: true,
+                                          dangerMode: true,
+                                        })
+                                        .then(function(confirm) {
+                                          if (confirm) {
+                                                if(reloadUrl) {
+                                                        $.get(href, function(hrefResponse) { 
+                                                                $.get(reloadUrl + (reloadUrl.indexOf('?') > -1 ? '&' : '?') + "body-only=true", function(response) {
+                                                                        if($("#modal").length > 0) {
+                                                                                $("#modal .modal-body").html(response);
+                                                                        }
+                                                                        else {
+                                                                                $("#main-body").html(response);
+                                                                        }
+                                                                });
+                                                        });
+                                                }
+                                                else {
+                                                        window.location = href;
+                                                }
+                                          }
+                                });
+                                break;
+                }
+
+                e.preventDefault();
+                return false;
+        });
+
+        $(document).on("click", ".custom-pnotify-closer", function() {
+                $(this).parents('.ui-pnotify-container').find('div.ui-pnotify-closer').click();
+        });
+
+        function modalDismiss() {
+                $("body").removeClass("modal-open");
+        }
+
+        /* Milestone confirmation modal */
+        $(function() {
+                if($("#milestone-confirmation_modal").length > 0)
+                        $('#milestone-confirmation_modal').modal('show');
+        });
+        $('#milestone-confirmation_modal').on('hidden.bs.modal', function () {
+            window.location = "https://app.childpaths.ie/auth/login?intended=https%3A%2F%2Fapp.childpaths.ie%2Fdashboard%2Fchild-logs%2FBAnWPhRwz2%2Fphoto%3Fpage%3D2";
+        });
+
+        $(document).on('change', 'input#include_disabled,input#include_past', function() {
+                $(this).parents('form').submit();
+        });
+
+        $(document).on('change', 'input#include_deleted_rooms', function() {
+                $(this).parents('form').submit();
+        });
+
+        
+        /* Lock forms */
+        $(document).on('submit', 'form', function(form) {
+                var buttons = $("input[type='submit'],button[type='submit']");
+
+                if(buttons && buttons.length > 0) {
+                        buttons.each(function(index, button) {
+                                $(button).attr('disabled', 'disabled');
+                                $(button).addClass('preloading');
+                                $(button).after('<button id="' + $(button).attr('id') + '" ' + ($(button).is('button') ? 'type="submit"' : '') + 'class="' + $(button).attr('class') + ' form-preloader" style="' + $(button).attr('style') + '" disabled><img src=\"/images/preloader.gif\" style="max-width: 20px; max-height: 20px;"></button>');
+                                $(button).hide();       
+                        });
+                }
+        });
+
+        $(document).ajaxComplete(function(event, xhr, settings) {
+                var buttons = $("input.preloading,button.preloading");
+
+                if(buttons && buttons.length) {
+                        buttons.each(function(index, button) {
+                                $(button).removeAttr('disabled');
+                                $(button).removeClass('preloading');
+                                $(button).show();       
+                                
+                                var preloader = $(button).closest('button.form-preloader');
+                                if(preloader && preloader.length > 0)
+                                        preloader.remove();
+                        });
+                }
+        });
+
+        var iOS_scrollY = null;
+        if(window.navigator.userAgent.indexOf("Mac") > -1) {
+                $(function() {
+                        $('a[data-open]').click(function() {
+                                iOS_scrollY = window.scrollY;
+                        });
+                        $('body').on('hide.bs.modal', '#modal', function() {
+                                if(iOS_scrollY != null) {
+                                        setTimeout(function() {
+                                                window.scrollTo(window.scrollX, iOS_scrollY);
+                                                iOS_scrollY = null;
+                                        }, 400);
+                                }
+                        });
+                });
+        }
+
+        function handleIOSModal() {
+                iOS_scrollY = window.scrollY;
+        }
+
+        
+        $(document).on("click", "[data-swal]", function() {
+                var text = $(this).attr('data-swal'), title = $(this).attr('data-title') ? $(this).attr('data-title') : '', icon = $(this).attr('data-icon') ? $(this).attr('data-icon') : 'success';
+                console.log("on click");
+                swal({
+                        title: title,
+                        text: text,
+                        icon: icon,
+                        buttons: true,
+                        dangerMode: true,
+                });
+        });
+
+        $(document).on('submit', 'form', function(e) {
+                var form = $(this), files = form.find('input[name*=files]'), error = form.find(".kv-fileinput-error");
+
+                if(files.length > 0 && error.length > 0 && error.text() != "") {
+                        swal('Error', error.text(), 'error');
+
+                        form.find("input[type=submit]").show().removeAttr('disabled').removeClass('disabled');
+                        if(form.find("button.preloading").length > 0) {
+                                form.find("button.preloading").remove();
+                        }
+                        
+                        e.preventDefault();
+                        return false;
+                }
+        });
+
+        $(document).on("click", "a[data-open=inner_modal]", function(event) {
+                $.get($(this).attr('href'), { "body-only": true }, function(response) {
+                        $("#modal .modal-body").html(response);
+                });
+                
+                event.preventDefault();
+                return false;
+        });
+
+        /* Planning */
+        $(document).on("change", ".planning-event-template_expandable", function() {
+                var list = $(this), branchId = $(this).attr('data-branch');
+
+                if(list.val() == "see_more") {
+                        $.post('/ajax/' + branchId + '/planning/templates', function(response) {
+                                if(response) {
+                                        list.html("<option value=\"\">Select</option>");
+                                        response.forEach(function(item) {
+                                                list.append("<option value=\"" + item.hashid + "\">" + item.display_name + ' (' + (item.time_from + ' - ' + item.time_to) + ")</option>");
+                                        });
+                                }
+                        });
+                }
+        });
+
+        $(function() {
+                        $(document).on("click", "#mediumTermForm span.day", function() {
+                                if($(this).attr('data-value') == 1) {
+                                        $(this).attr('data-value', 0);
+                                        $(this).removeClass('label-success');
+                                        $(this).addClass('label-default');
+                                }
+                                else {
+                                        $(this).attr('data-value', 1);
+                                        $(this).removeClass('label-default');
+                                        $(this).addClass('label-success');
+                                }
+        
+                                /* Day inputs */
+                                var dayInput = "", tr = $(this).parents('tr');
+                                tr.find('span.day[data-value=1]').each(function(index) {
+                                        if(index > 0) {
+                                                dayInput += ",";
+                                        }
+                                        dayInput += $(this).attr('data-day');
+                                });
+                                $(this).parents('tr').find('.template_days_input').val(dayInput);
+                        });
+        
+                        $(document).on('click', '#mediumTermForm span.day-all', function() {
+                                $(this).parents('tr').find('span.day[data-value=0]').each(function(index, item) {
+                                        $(item).click();
+                                });
+                        });
+                                
+                                $(document).on("click", "#n_template_event_btn", function() {
+                                        var template = $("#n_event_template"), days = $("#eventTemplateDays");
+        
+                                        if(template.val() != "" && template.val()) {
+                                                if($("tbody.event-template-rows select[name*='[hashid]']").val() == template.val()) {
+                                                        swal("Error", "You have already added specified activity.", "error");
+                                                        return false;
+                                                }
+                                                if(days.val() != "" && days.val()) {
+                                                        var tr = template.parents('tr.create-row').clone();
+                                                        tr.removeClass('create-row');
+                                                        tr.find('button.btn-success').removeAttr('id').removeClass('btn-success').addClass('btn-danger').addClass('delete-row').find('i.fa-plus').removeClass('fa-plus').addClass('fa-trash');
+                                                        tr.find('select[name*=n_event_template]').attr('name', 'event_templates[0][hashid]').removeAttr('id').val(template.val());
+                                                        tr.find('input[name*=n_event_template_days]').attr('name', 'event_templates[0][days]').removeAttr('id');
+                                                        tr.appendTo('tbody.event-template-rows');
+        
+                                                        recalculateEventTemplateIndex();
+                                                        $("#n_event_template").val("");
+                                                }
+                                                else {
+                                                        swal("Error", "You must select at least one day.", "error");
+                                                }
+                                        }
+                                        else {
+                                                swal("Error", "You must select regular activity.", "error");
+                                        }
+                                });
+        
+                                $(document).on("click", "button.delete-row", function() {
+                                        var tr = $(this).parents('tr');
+                                        tr.remove();
+                                        recalculateEventTemplateIndex();
+                                });
+                });
+        
+                function recalculateEventTemplateIndex() {
+                        var trs = $("tbody.event-template-rows tr");
+        
+                        trs.each(function(index, tr) {
+                                var inputs = $(tr).find("input[name*=event_templates],select[name*=event_templates]");
+        
+                                inputs.each(function(j, input) {
+                                        $(input).attr('name', $(input).attr('name').replace(/(event_templates\[[0-9]+\])/g, 'event_templates[' + index + ']'));
+                                });
+                        });
+                }
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+        $(function() {
+                $.ajaxSetup({
+                        beforeSend: function (xhr)
+                        {
+                                xhr.setRequestHeader("Authorization", "Bearer " + Laravel.apiToken);        
+                        }
+                });
+        });
+//]]>
+</script>
+<style type="text/css">
+/*<![CDATA[*/
+        [data-imgBrowser] {
+                cursor: pointer;
+        }
+        
+        div#imgBrowser-container {
+                position: fixed;
+                z-index: 9999999999999999999999;
+                top: 0; left: 0;
+                bottom: 0; right: 0;
+                background: rgba(0, 0, 0, 0.8);
+                display: none;
+        }
+        
+        div#imgBrowser-container div.imgBrowser-container_img-holder {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                padding: 20px;
+                text-align: center;
+        }
+        
+        div#imgBrowser-container div.imgBrowser-container_img-holder span {
+                position: absolute;
+                bottom: 4%; right: 2%;
+                background: rgba(255, 255, 255, 0.9);
+                color: gray;
+                text-transform: uppercase;
+                text-align: center;
+                padding: 10px;
+                font-size: 140%;
+                cursor: pointer;
+        }       
+/*]]>*/
+</style>
+</head>
+<body class="">
+<div class="navbar navbar-default navbar-fixed-top" role=
+"navigation">
+<div class="container-fluid">
+<div class="navbar-header">
+<div class='top-header-holder'>
+<div class='logo-holder'><img src=
+"https://app.childpaths.ie/images/childpaths-logo.png" style=
+"max-height: 80px;" /></div>
+</div>
+<button type="button" class=
+"navbar-toggle btn-toggle-mobile">Menu</button></div>
+<div class="navbar-collapse collapse">
+<div class="nav navbar-nav navbar-right nav-settings" style=
+"margin-top: 0px;">
+<div class="row">
+<ul class="nav navbar-nav navbar-right nav-settings" style=
+"margin: 0px;">
+<li class="dropdown"><a href="#" class=
+"dropdown-toggle admin-toggle" role="button" data-toggle=
+"dropdown">Dalen Kambur</a>
+<ul class="dropdown-menu dropdown-menu-right" role="menu">
+<li class="dropdown-header">dalen.kambur@gmail.com</li>
+<li><a href="/profile">My Account</a></li>
+<li><a href="/auth/logout">Sign Out</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="topIconBar" class="row no-print" style=
+"padding: 10px 20px; text-align: right;"><a href=
+"https://app.childpaths.ie/reminder/create?modal=1" class=
+"no-print" data-open="modal" style=
+"color: inherit; margin-right: 20px;"></a> <a href=
+"https://app.childpaths.ie/milestones/notifications" class=
+"no-print" data-open="modal" style=
+"color: inherit; text-decoration: none; margin-right: 20px; padding: 5px;">
+<i style=
+"border-bottom: 2px solid #000; font-style: normal; font-weight: bold; font-size: 24px;">
+M</i></a> <a href="https://app.childpaths.ie/modal-notifications"
+class="no-print" data-open="modal" style=
+"color: inherit;"><i class="fa fa-globe fa-2x" aria-hidden="true"
+id="notificationLink" style="cursor: pointer;"></i> <span id=
+"notification_count">14</span></a></div>
+</div>
+<div class="company-logo">
+<table>
+<tr>
+<td style="padding: 2.5px !important;"><img src="" class=
+"img-responsive cp-company-logo" style="max-height: 100px;" /></td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="navbar-left-container-space-taker navbar-default">
+</div>
+<div class="navbar-left-container main-nav" style=
+"overflow: auto;">
+<ul class="nav nav-stacked" style="margin-bottom: 0px;">
+<li><a href="https://app.childpaths.ie/user-notifications" class=
+"side-bar--link"><span>News Feed</span></a></li>
+<li><a href="/dashboard" class="side-bar--link active"><span>Child
+Profile</span></a></li>
+<li><a href="https://app.childpaths.ie/conversations" class=
+"side-bar--link"><span>Conversations</span></a></li>
+<li><a href="https://app.childpaths.ie/children" class=
+"side-bar--link"><span>Child Details</span></a></li>
+<li><a href="https://app.childpaths.ie/message/index" class=
+"side-bar--link"><span>Child Paths Notifications</span></a></li>
+<li><a href="https://app.childpaths.ie/milestones" class=
+"side-bar--link"><i style=
+"border-bottom: 1px solid #fff; font-style: normal; font-weight: bold; font-size: 20px;">
+M</i><span>Milestones</span></a></li>
+<li><a href="https://app.childpaths.ie/reminder/index" class=
+"side-bar--link"><span>Reminders</span></a></li>
+<li><a href="https://app.childpaths.ie/help" class=
+"side-bar--link"><span>Help</span></a></li>
+<li><a href="https://app.childpaths.ie/profile" class=
+"side-bar--link"><span>My Account</span></a></li>
+<li><a href="https://app.childpaths.ie/page-helper/index" class=
+"side-bar--link"><span>Tutorials</span></a></li>
+<li><a href="https://app.childpaths.ie/storage/index" class=
+"side-bar--link"><span>Storage</span></a></li>
+<li><a href="https://app.childpaths.ie/user-form/index" class=
+"side-bar--link"><span>Forms</span></a></li>
+<li class="mobile"><a href="/auth/logout" class=
+"side-bar--link"><span>Sign Out</span></a></li>
+<li class="desktop-last-child"><a href="#" style=
+"text-align: right;" id="navbar-left-slide" class="in"></a></li>
+</ul>
+<div style="clear: both"></div>
+</div>
+<div id="breadcrumbs" class="breadcrumbs-container">
+<ul>
+<li><a href="https://app.childpaths.ie/dashboard">Home</a></li>
+<li><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/overview">
+Saoirse Kambur Overview</a></li>
+<li><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo">Photo
+Gallery</a></li>
+</ul>
+</div>
+<div class="main-container parents">
+<div class="row text-center"></div>
+<div class="row">
+<div class="col-lg-12"></div>
+</div>
+<div class="row page-heading-row">
+<div class="col-xs-12 child-overview-title">
+<div class="col-lg-4 col-sm-6 col-xs-12">
+<div class="child-overview-avatar" style=
+"background-image: url('https://s3.eu-west-1.amazonaws.com/images.childpaths/images/MjbDOWrse2-thumbnail.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=604800&amp;X-Amz-Signature=d7f369ef17ef326dab37d827a0a43067baea8b4833cd61ff09964657c492a228')">
+</div>
+<h1>Saoirse Kambur</h1>
+</div>
+<div class="col-lg-8 col-sm-6 col-xs-12">
+<div class="col-lg-2 col-sm-4 col-xs-6"><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BkQlzuZp0g/photo">
+<div class="row">
+<div class="smallAvatarImage" style=
+"background-image: url(''); margin: 0px; margin-left: auto; margin-right: auto;">
+</div>
+</div>
+<div class="row" style="text-align: center;">Teagan Kambur</div>
+</a></div>
+</div>
+</div>
+</div>
+<hr />
+<div id="main-body">
+<ul class="nav nav-tabs">
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/overview"
+style="min-width: 135px; text-align: center;">Overview</a></li>
+<li class="active"><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo"
+style="min-width: 135px; text-align: center;">Gallery</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/observation"
+style="min-width: 135px; text-align: center;">Observations</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/milestones"
+style="min-width: 135px; text-align: center;">Milestones</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/occupancy/BAnWPhRwz2/child/overview"
+style="min-width: 135px; text-align: center;">Schedule</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/activities" style=
+"min-width: 135px; text-align: center;">Activities</a></li>
+</ul>
+<form method="get" action=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo"
+accept-charset="UTF-8" id="filter-form" class=
+"filters filters-in-tabs" name="filter-form">
+<div class="content-wrapper">
+<div class="filter-group">
+<div class="form-group"><label for="tag">Tag</label> <select id=
+"tag" name="tag">
+<option value="" selected="selected">All</option>
+</select></div>
+<div class="form-group"><label for="private">Type</label>
+<select id="private" name="private">
+<option value="" selected="selected">All</option>
+<option value="0">Shared with creche</option>
+<option value="1">Private</option>
+</select></div>
+</div>
+</div>
+</form>
+<div class="content-wrapper all-photos">
+<div class="row">
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/gRYE06Uw1k/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/gRYE06Uw1k.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193122Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=e654b9b90932e38cb85d9a1ce777d81d3cb1a197f91b836222a3f705243f6b65"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/gRYE06Uw1k-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193122Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=efcf33d5993924a4a8a6a227c8d7e19fd3c398794ff37410f2d5c205e0529992"
+alt="" /></a>
+<div class="caption">
+<p>Cooking of a storm ;</p>
+<p>Uploaded: 06/07/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_gRYE06Uw1k" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_gRYE06Uw1k" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/gRYE06Uw1k/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/j1R3bwcxv5/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/j1R3bwcxv5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193122Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=27b945baa2beebde4c00bc0eff37dbda1d21d49d6d277140602355e8107d73fc"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/j1R3bwcxv5-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193122Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5c272120d4d732daf0a1185a8fb76abda4f27f76c2f6714b9a4b5493b032acef"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 02/07/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_j1R3bwcxv5" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_j1R3bwcxv5" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/j1R3bwcxv5/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-sm"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/Bvm6akf04P/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/Bvm6akf04P.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193122Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5ea84386359172e035b6bd2ee020443c4beea2b1b6ddef6f32084d368d78fb63"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/Bvm6akf04P-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193122Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=a89c74e326bc3645b10378fdfe7da50d12b57904c5ea3792b89d4c6908bdd5aa"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 01/07/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_Bvm6akf04P" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_Bvm6akf04P" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/Bvm6akf04P/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-md"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/jnNqVDUPZ5/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/jnNqVDUPZ5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=73cfe875e36808cf36b0951c47ea615498d8793d2d6f41fc9384fb5a0d439922"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/jnNqVDUPZ5-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=43215bf0834b1852bb8e46b9e263c35ababa14fdc9e9d23911e465dedfe5d05a"
+alt="" /></a>
+<div class="caption">
+<p>Saoirse is making ice cream of everyone ;</p>
+<p>Uploaded: 30/06/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_jnNqVDUPZ5" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_jnNqVDUPZ5" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/jnNqVDUPZ5/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-lg"></div>
+<div class="clearfix visible-sm"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/BkZyEKuZ9d/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/BkZyEKuZ9d.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=92739e0cac884fbbca7c838cdb071c98021b345a2a7452a410f497834c3bf476"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/BkZyEKuZ9d-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=eda939116ac4b9399b12714fb4b84941170db44b44c5985e8aa2eec528b7daa7"
+alt="" /></a>
+<div class="caption">
+<p>Saoirse is cooking up a storm in the kitchen ;</p>
+<p>Uploaded: 29/06/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_BkZyEKuZ9d" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_BkZyEKuZ9d" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/BkZyEKuZ9d/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/jMD8moFkGZ/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/jMD8moFkGZ.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=6ac0d48cf14c9dca0eb82c381935adf2b4829f79ab1313652b1b188a2e75fdfd"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/jMD8moFkGZ-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=cf4f55e5e14ece4e19f63e9ad45f7edd607912951961c5ef478f397f75863c9a"
+alt="" /></a>
+<div class="caption">
+<p>Saoirse is loving the ball pool. She’s diving In and out
+laughing ;</p>
+<p>Uploaded: 29/06/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_jMD8moFkGZ" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_jMD8moFkGZ" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/jMD8moFkGZ/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-md"></div>
+<div class="clearfix visible-sm"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/BaGlGES5bW/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/Kj1E7EaSdj.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=12ffab3b4bc752de656501990a1228aafcc0b049e0f30f9713d2349445fd757a"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/Kj1E7EaSdj-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=45b5a566e6e888535f7acfd98e13526e55015384b5e448f5061e8fbd86b477a5"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 28/02/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_BaGlGES5bW" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_BaGlGES5bW" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/BaGlGES5bW/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/g4k7kru6x8/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/rBwGXG0IlB.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=6dcba7937d9da2c1915d1cdb020dc7112d2a0bc039ae73a23be536ea7a265ef3"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/rBwGXG0IlB-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=b7589ecf0418f4f01338bda7ade1c35ca14f7cc06a239c496e6335b9ae145cd5"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 28/02/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_g4k7kru6x8" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_g4k7kru6x8" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/g4k7kru6x8/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-lg"></div>
+<div class="clearfix visible-sm"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/BA0yrWTR8k/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/yjEZal1fdB.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=93d8153a087a5815e39e428cf4ba4ce16aae6717081100cf9b5bc8c04474d126"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/yjEZal1fdB-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=cecb7504d33d38141b4e3e951bcd8c8c5e461d11a0676829abbc8b17654f313e"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 17/02/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_BA0yrWTR8k" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_BA0yrWTR8k" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/BA0yrWTR8k/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-md"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/Bv11XwH04P/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/9jnYY1WhJg.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=dd235adbe250adeadc4fd290ab897004cb2616434dc763e6ba687ec5015f85a1"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/9jnYY1WhJg-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=f9d27204504a6416f6e8f8bfe2f13feaaac7cb350d118fd070572de6245aeac0"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 14/02/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_Bv11XwH04P" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_Bv11XwH04P" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/Bv11XwH04P/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-sm"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/2d77WOh3oA/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/qBDEEx0hW2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=89369a1c23fc5c7ebd01870c84d4957770a1fc0da86e45e69c969f9efc83b79c"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/qBDEEx0hW2-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5b595827f1f2a85c840eb88c6dbbd25deb4edb4bf6884f547ed37a25f3552273"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 14/02/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_2d77WOh3oA" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_2d77WOh3oA" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/2d77WOh3oA/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/gGkYQwtvzY/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/RgXdQNGTdg.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=9b42f3644bf0c370749f586e7c399c5f6198d9b9288865470c76ff0deb5c3e81"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/RgXdQNGTdg-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=ab69d8fcdb7f6bf152178e254430bc1d633443b9051ff04178235f07ca5145cb"
+alt="" /></a>
+<div class="caption">
+<h4>Jelly slime was so fun. Saoirse loved it</h4>
+<p>Uploaded: 07/02/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_gGkYQwtvzY" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_gGkYQwtvzY" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/gGkYQwtvzY/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-lg"></div>
+<div class="clearfix visible-md"></div>
+<div class="clearfix visible-sm"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/gzv4mrtGay/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/dgomLNJIYB.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=48a976223e3cedb973e6475e815cbf94cf6801906e774678c1c263cc649096f4"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/dgomLNJIYB-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=3f174ce4bef53dbc377dc500d7c032659c61367f294ca7f2a7ce68d97222e353"
+alt="" /></a>
+<div class="caption">
+<h4>Saoirse is doing lovely art for Valentine’s Day</h4>
+<p>Uploaded: 03/02/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_gzv4mrtGay" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_gzv4mrtGay" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/gzv4mrtGay/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/Byd8KVuaJ7/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/7j951eyfpj.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5c7e2c442a1c8c0f3419f09f47e38943ae3963a2b48364effc62488015f8ca06"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/7j951eyfpj-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=ffc4ed934ceef656b90fca604b6fb0748cd1641fb28c7c4d5215123a819c2e53"
+alt="" /></a>
+<div class="caption">
+<p>Uploaded: 30/01/2020 by Lorraine mooney</p>
+<p><a class="show_add_tags" data-tags="add_tags_Byd8KVuaJ7" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_Byd8KVuaJ7" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/Byd8KVuaJ7/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-sm"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/jEmMVWhokK/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/MjbDOWrse2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=604800&amp;X-Amz-Signature=9c62d11fc5f793caf4cf3aab49d3d253ea969988d94543821881f3f66c64f38b"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/MjbDOWrse2-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=604800&amp;X-Amz-Signature=26613408a2d8a90db9998a699d64a25deaab3b3becc558bebf2d7ea40c0c249e"
+alt="" /></a>
+<div class="caption">
+<h4>image</h4>
+<p>Uploaded: 09/01/2020 by Naomi Danaher</p>
+<p><a class="show_add_tags" data-tags="add_tags_jEmMVWhokK" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_jEmMVWhokK" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/jEmMVWhokK/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-md"></div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="thumbnail"><a href=
+"https://app.childpaths.ie/child/BAnWPhRwz2/photo/2xYYeEcPrm/delete"
+data-open='modal' class="close">×</a> <a href=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/V2evvx3uNg.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=9fc5c3c82aa78996010f638883ad04114e3aa9765083ad87be2902f482b588b2"
+target="_blank"><img class="img-responsive" src=
+"https://s3.eu-west-1.amazonaws.com/images.childpaths/images/V2evvx3uNg-medium.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJEBATXCALB77QG2A%2F20200823%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200823T193123Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=0a63c8015232e9a4369f4ccb26a7802c8a229c0c9addaf95179a6aea50ba494e"
+alt="" /></a>
+<div class="caption">
+<h4>Look who popped in to say hello...</h4>
+<p>Uploaded: 20/12/2019 by Ciara Collender</p>
+<p><a class="show_add_tags" data-tags="add_tags_2xYYeEcPrm" href=
+"#add_tags">Add/Edit tags</a></p>
+<div id="add_tags_2xYYeEcPrm" class="add-tags hide">
+<form method="post" action=
+"https://app.childpaths.ie/children/BAnWPhRwz2/photo/2xYYeEcPrm/tags"
+accept-charset="UTF-8"><input name="_token" type="hidden" value=
+"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3" />
+<div class="form-group"><input class="tags" name="tags" type="text"
+value="" /></div>
+<div class="button-group"><button type="submit" class=
+"btn btn-primary btn-xs">Save</button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix visible-lg"></div>
+<div class="clearfix visible-sm"></div>
+</div>
+<div class="text-center">
+<div class="text-center">
+<ul class="pagination">
+<li><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=1"
+aria-label="Previous page"><span aria-hidden=
+"true">«</span></a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=1">
+1</a></li>
+<li class="active"><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=2">
+2</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=3">
+3</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=4">
+4</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=5">
+5</a></li>
+<li class=""><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=6">
+6</a></li>
+<li><a href=
+"https://app.childpaths.ie/dashboard/child-logs/BAnWPhRwz2/photo?page=3"
+aria-label="Next page"><span aria-hidden="true">»</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-clearfix"></div>
+</div>
+</div>
+<div id="imgBrowser-container">
+<div class="imgBrowser-container_img-holder"><img id=
+"imgBrowser-source" src="" /> <span> Close</span></div>
+</div>
+<div class="mobile-notifications_container no-print"><a href=
+"https://app.childpaths.ie/reminder/create?modal=1" data-open=
+"modal" style=
+"color: inherit; margin-right: 10px; float: left;"></a> <a href=
+"https://app.childpaths.ie/modal-notifications" data-open="modal"
+style="float: left; margin: 0px 10px;">
+<div style="clear: both;"></div>
+<span id="notification_count">14</span></a> <a href=
+"https://app.childpaths.ie/milestones/notifications" data-open=
+"modal" style=
+"color: inherit; text-decoration: none; margin: 0px 10px; float: left;">
+<i style=
+"border-bottom: 2px solid #000; font-style: normal; font-weight: bold; font-size: 20px;">
+M</i></a>
+<div style="position: fixed; bottom: 10px; right: 0;"></div>
+</div>
+<div class="footer-container">
+<div class="footer-left-spacer"></div>
+<ul>
+<li class="terms">© 2020 Child Paths Ltd, All Rights Reserved.
+<a href=
+"https://app.childpaths.ie/terms/terms-and-conditions">T&amp;Cs</a>
+| <a href="https://childpaths.ie/privacy-policy/">Privacy
+Policy</a></li>
+</ul>
+</div>
+<script>
+<![CDATA[
+        $(function () {
+            $('#filter-form select').change(function () {
+                $('#filter-form').submit();
+            });
+
+            $('.show_add_tags').on('click', function(e) {
+                e.preventDefault();
+                var container = $(this).data('tags');
+                $(this).parents('p').hide();
+                $('#' + container).removeClass('hide');
+            });
+
+                        var tagInputs = $('input.tags');
+            $(tagInputs).each(function() {
+                $(this).select2({
+                    width: '100%',
+                    tags: [''],
+                    maximumInputLength: 20,
+                    tokenSeparators: [","]
+                });
+            });
+                    });
+]]>
+</script> 
+<script type="text/javascript" src=
+"https://app.childpaths.ie/js/enable-push.js"></script> 
+<script>
+<![CDATA[
+
+                                window.Laravel = {"user":{"id":18233,"display_name":"Dalen Kambur","email":"dalen.kambur@gmail.com","email2":null,"api_token":"sMmPYoWBDRu0ZdZ1mlCJF6iT1rdjetYHxagiYIHL00niSuGOo7QRGRIk4siWyiYydTFhHvnlYJCj5fr1","role":"guardian","enabled":1,"verified":1,"failed_logins":0,"company_id":49,"branch_id":62,"contact_numbers":"a:2:{i:0;s:10:\"0877993290\";i:1;s:15:\"Work 0877111679\";}","address":"286 Rosemount Terrace \r\nNCR\r\nPhibsborough\r\nDublin 7\r\n","subscription_id":null,"first_time_buyer":1,"created_at":"2019-03-29 09:30:33","updated_at":"2020-08-23 20:31:22","deleted_at":null,"welcome_mail_sent":1,"must_reset_password":0,"mongo_id":null,"mongo_company_id":null,"mongo_branch_id":null,"mongo_subscription_id":null,"stripe_active":0,"stripe_id":null,"stripe_subscription":null,"stripe_plan":null,"last_four":null,"trial_ends_at":null,"subscription_ends_at":null,"share_observations":0,"edit_observation_sharing":0,"email_notifications":1,"allow_commenting":1,"allow_parent_conversation":0,"allow_share_milestones":0,"milestone_show_reminders":1,"milestone_show_new":1,"milestone_confirmation":"2019-03-29 09:48:14","respect_working_hours":1,"terms_rules_accepted":127,"super_user":0,"allow_sleeping_alert":1,"allow_timesheet_edit":1,"allow_ncs_report":0,"allow_room_planner":0,"conversation_tracking":0,"card_brand":null,"card_last_four":null,"holiday_request_manager":0,"relationship":null,"occupation":null,"gender":null,"branch":{"id":62,"company_id":49,"display_name":"Children's Place","address":"The Childrens Place,40 Parnell Square,Dublin.1.","enabled":1,"created_at":"2016-03-11 15:57:54","updated_at":"2019-12-13 07:53:59","deleted_at":null,"allow_share_milestones":0,"open_at":"2020-08-23T06:55:00.000000Z","closed_at":"2020-08-23T17:15:00.000000Z","allow_parents_planning":0,"allow_parents_feedback":0,"allow_planning_feedback":0,"allow_parents_evaluation":0,"allow_options_management":1,"allow_parents_sticky_notes":0,"allow_observation_feedback":1,"allow_sleeping_alerts":1,"allow_log_themes":1,"allow_timesheet_logs":1,"allow_timesheet_edit":1,"room_planner_migration_verification":0,"room_planner_migration":1,"room_planner_irregularity_amber_limit":null,"room_planner_irregularity_red_limit":null,"room_planner_irregularity_alerts":1,"allow_room_planner_updates":1,"themes_standards_type":"ie","automatic_departure_time":"2020-08-23T17:45:00.000000Z","allow_signatures":0,"allow_user_switch":1,"hashid":"RgXNbtZ90B"},"subscriptions":[]},"csrfToken":"j3MStQxd8zikYpDBeEw1AhinVOkiSkKxslrt6pW3","vapidPublicKey":"BKTZgoco08Kwv0wbvt7S3bz3nXdOB7ec3V6MFjjqXu9NWNLD79KPfA_Op0LSx9GdMyBtAbxeQI9RMn13mIzzFoU","pusher":{"key":null,"cluster":"us"},"apiToken":"sMmPYoWBDRu0ZdZ1mlCJF6iT1rdjetYHxagiYIHL00niSuGOo7QRGRIk4siWyiYydTFhHvnlYJCj5fr1"};
+]]>
+</script>
+</body>
+</html>

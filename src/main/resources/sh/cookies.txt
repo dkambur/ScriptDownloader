@@ -1,0 +1,15 @@
+# HTTP Cookie File for childpaths.ie by Genuinous @genuinous.
+# To download cookies for this tab click here, or download all cookies.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://app.childpaths.ie/dashboard/child-logs/8z4jIQ54/photo"
+#   2) curl --cookie cookies.txt "https://app.childpaths.ie/dashboard/child-logs/8z4jIQ54/photo"
+#   3) aria2c --load-cookies cookies.txt "https://app.childpaths.ie/dashboard/child-logs/8z4jIQ54/photo"
+#
+.childpaths.ie	TRUE	/	FALSE	1703886387	_ga	GA1.2.1662194964.1640814350
+.childpaths.ie	TRUE	/	FALSE	1640900787	_gid	GA1.2.797673219.1640814350
+.app.childpaths.ie	TRUE	/	TRUE	1672350387	__stripe_mid	e0380cc2-33c0-44fa-bcc1-4e1f9abd13f0e95553
+.app.childpaths.ie	TRUE	/	TRUE	1640816187	__stripe_sid	8fc4c756-627b-43b1-a046-539b7e94cc140e6cd0
+app.childpaths.ie	FALSE	/	FALSE	1798494351	remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d	eyJpdiI6IkZZa3BWRHhnQXI4N0ZORDB1THBUNWc9PSIsInZhbHVlIjoiTms4RGFEMENEbGNLVW1zZXRxRFIzS1N4bDZISUx3bUZ4a05yZ3JyNnZDanVMU3lPd1E4Y0RyV0o2YXYzeGU0NysyVU5qRlVNWjlIK3RtY2MyYmc2YjBrcitHNTJ6N0Y1MVwvSGQyUmhiTEVFQUJaUTc4T01VRVVzRXpzZzFJWE1MV0NJQlV3Q2RWemU4VTNxU0E3RXp5M294VGxUWVU2TFJYdEZRRThEVzdZa0lBY1NENWtlRzJVQzQrWmkranJaK0Rwb1pyVXRra0tGcklzNFhHQ2lETFh5OUpoUzdYK3BlRmpEbXZwZ2U3ZE09IiwibWFjIjoiYmZkNzlmZmNhMTNlNzUxZWYzOTlhNjgwMzA3Zjg3MmVjOTk3NThjMmQ1YjVjYmFiNjUwZjY0NzE5ZmRiZDk0OSJ9
+app.childpaths.ie	FALSE	/	FALSE	1672350387	XSRF-TOKEN	eyJpdiI6IkwzU3hFZmJoWExuWERnSTdHR2MyQ3c9PSIsInZhbHVlIjoiNDlid0NlN1k1dE9NZXRJZmFRWlB4Tk9GWU5yR01FNEkzUkZPTlNOQjdUbmM2SFwvcE84VEhmWURYMTZPYitITDl4SE1RcFAzVGtSS3FKbjBuSUc5T3Z6YWxiMWN4RDIrWDRROFErdWt6cisrTFVJcnlPdXpPV1hcL3Q4djlrWmxvbSIsIm1hYyI6IjFhOGU5ZGNmZDhjZDdlYjE3MDIwZTk1ZTJhMTY0ZTFiMjIwOWE2MjFlNmJiMjA0Mzc0MTM4NjZhY2FmNzJlYjkifQ%3D%3D
+app.childpaths.ie	FALSE	/	FALSE	1672350387	ChildpathsAppSession	eyJpdiI6IjlvWlFvZ1ZFSFJrZCtUeGhuWWY5enc9PSIsInZhbHVlIjoidWdVaE9GZkxrd0NteXRRZkJiUGliYTJvemdKMEdOVVwvaFlYYk5Cam5pcHFDTjYrWGR6MzJ3OGdxQ01sRU1zbUFSbjJwYjBoN1RHWDNBZDRcLzNUNGhzYmJBamtXTGtuNnBkem1CbXJ3azJJZ2RQK0YwZHRxOTJsYkp1T3FEY0dyOCIsIm1hYyI6ImQwN2NhYjAwNmRiZGQ3NTE3NWE1YmNhNzA5NjBhZDdmMmUzNTFkOGI3ODM1YzJiYjUxYTEzYWEyYWRhMjdiZTcifQ%3D%3D
+sockets.childpaths.ie	FALSE	/	FALSE	0	io	n1YGynEPwo_CdjZ4AHAG
